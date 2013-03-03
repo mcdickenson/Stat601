@@ -1,0 +1,38 @@
+Exam 1 - Oct. 5
+Exam 2 - Nov. 16
+Presentations - Nov. 28-30
+(Group presentations are OK.)
+
+Exams will tend to have several applied problems. First exam will be more math based, second is more applied.
+
+Project will be an applied Bayesian modeling exercise. Find data; use methods slightly more advanced than in class (e.g. different prior in computation). Use data that don't fit in perfectly with what we discuss in class. 
+
+
+
+1 (8/29) - Description of course, motivation for Bayes through simple examples (Ch 1 Hoff)
+2 (8/31) - Intro to general Bayesian paradigm & review of some important concepts (Ch 2 Hoff)
+3 (9/5) - One parameter models - part 1 (Ch 3 Hoff) 
+4 (9/7) - One parameter models - part 2 (Ch 3 Hoff) 
+5 (9/12) - Normal model - part 1 (Ch 5 Hoff)  
+6 (9/14) - Normal model - part 2 (Ch 5 Hoff) 
+7 (9/19) - Introduction to Monte Carlo & use in Bayesian statistics (Ch 4 Hoff) (Dr. Guhaniyogi lecturer) 
+8 (9/21) - Monte Carlo for prediction and model checking (Ch 4 Hoff) (Dr. Guhaniyogi lecturer) 
+9 (9/26) - Introduction to Markov chain Monte Carlo (MCMC) (Ch 6 Hoff) 
+10 (9/28) - MCMC 2 - Gibbs sampling basics and examples (Ch 6 Hoff) 
+11 (10/3) - MCMC 3 - Metropolis-Hastings, tuning & MCMC convergence (Ch 6 Hoff) 
+12 (10/5) - EXAM 1 - In class covering previous lectures
+13 (10/10) - Multivariate normal model - part I (Ch 7 Hoff) 
+14 (10/12) - Multivariate normal model - part II (Ch 7 Hoff) 
+15 (10/17) - Bayes linear regression - the basics (Ch 9 Hoff) 
+16 (10/19) - Bayes linear regression - more advanced topics (Notes)
+17 (10/24) - Data augmentation Gibbs sampling w/ applications in linear regression (Notes) 
+18 (10/26) -  Applications to non-linear models (Notes) 
+19 (10/31) - Group comparisons and hierarchical normal models (Ch 8 Hoff)  (Lizhen Lin lecturer) 
+20 (11/2) - Generalized linear models & applying Metropolis-Hastings (Ch 10 Hoff) 
+21 (11/7) - Binary response regression models (probit, logit, etc) (Notes + Ch 11-12 Hoff)
+22 (11/9) - Data augmentation algorithms for computation (Notes) 
+23 (11/14) - Applications of Bayesian regression & classification (Joshua Vogelstein lecturer)  
+24 (11/16) - EXAM 2 - In class covering previous lectures
+Thanksgiving Break 
+25 (11/28) - Project presentations - 3-5 min short highlight presentations (write-up due later) 
+26 (11/30) - Project presentations continued (LAST DAY)

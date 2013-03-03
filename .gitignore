@@ -1,0 +1,11 @@
+*.synctex.gz
+*.tex
+*.pdf
+*.docx
+*.djvu
+.DS_Store
+.Rapp.history
+*.aux
+*.fdb_latexmk
+*.log
+*.out
